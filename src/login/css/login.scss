@@ -1,0 +1,31 @@
+@import "../../constant/css/main";
+.center-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.primary-background {
+  background: $primaryBackground !important;
+}
+.primary-color {
+  color: $primaryColor !important;
+}
+.margin-top-50 {
+  margin-top: 50px;
+}
+.margin-top-10 {
+  margin-top: 10px;
+}
+.change-margin {
+  margin: 24px 0px 16px !important;
+}
+.white-background {
+  background: $whiteBackground !important;
+}
+body {
+  background: $whiteBackground !important;
+}
+a {
+  text-decoration: none;
+}
+
